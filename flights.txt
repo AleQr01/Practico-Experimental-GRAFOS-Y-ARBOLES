@@ -1,5 +1,8 @@
-Quito Guayaquil 90
-Quito Cuenca 70
-Cuenca Loja 50
-Guayaquil Manta 40
-Loja Machala 60
+# flightCode,origin,destination,price
+FL100,GYE,UIO,80.0
+FL101,GYE,CUE,60.0
+FL102,CUE,UIO,40.0
+FL103,GYE,UIO,140.0
+FL104,UIO,GYE,75.0
+FL105,GYE,SNC,120.0
+FL106,SNC,UIO,30.0
