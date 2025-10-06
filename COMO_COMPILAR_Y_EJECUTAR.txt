@@ -1,0 +1,2 @@
+javac Practical4.java
+java Practical4
