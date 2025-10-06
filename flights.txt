@@ -1,0 +1,5 @@
+Quito Guayaquil 90
+Quito Cuenca 70
+Cuenca Loja 50
+Guayaquil Manta 40
+Loja Machala 60
